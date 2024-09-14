@@ -23,8 +23,8 @@ The Personalized Story Generator is a Python application that creates personaliz
 - Click "Reset" to clear the fields and start over.
 
 ## Screenshots
-Here’s what the application looks like:
-![Personalized Story Generator][UI.jpg]
 
-# Output
-![Personalized Story Generator][example.jpg]
+![Personalized Story Generator](UI.jpg)
+
+## Output
+![Personalized Story Generator](Example.jpg)
